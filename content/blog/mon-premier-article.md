@@ -1,7 +1,7 @@
 +++
 date = '2025-03-05T15:28:22+01:00'
 draft = false
-title = 'Réalisation de mon portfolio lors de mon premier projet éditorial.'
+title = 'Mon premier projet éditorial et ma première expérience au contact de professionnel'
 +++
 
 # *Le cours de Pratiques Éditoriales*
@@ -24,6 +24,8 @@ Lors de ma licence en édition, j’ai eu l’opportunité de participer à un p
 
 L’objectif principal de cette réédition était de rendre le livre plus accessible à un public élargi, notamment aux personnes rencontrant des difficultés de lecture ainsi qu’aux apprenants en langue française. Il s’agissait d’un véritable défi éditorial, demandant une réflexion approfondie sur l’adaptation du contenu, la simplification du texte, et la mise en place d’une maquette optimisée pour une lecture plus fluide.
 
+![Battantes ! sous le levé du soleil](/images/Battantes.jpg)
+
 *Un projet collaboratif sur six mois*
 
 Le projet s’est déroulé sur une période de six mois, d’octobre à février, mobilisant l’ensemble des étudiants autour d’un travail collectif et structuré. Pour assurer une organisation efficace, la classe a été divisée en trois pôles spécifiques, chacun dirigé par un élève référent :
@@ -38,12 +40,3 @@ Ce projet a permis à chacun d’acquérir une expérience concrète du travail 
 
 Grâce à l’encadrement de Laura Vergé et à l’implication de chaque étudiant, cette réédition de BATTANTES ! a été une expérience enrichissante, à la fois sur le plan académique et humain. Ce projet a non seulement renforcé notre compréhension des métiers de l’édition, mais il a aussi mis en lumière l’importance de rendre la lecture accessible à tous.
 
-
-### *Mon portfolio*
-#### Réalisé avec l'aide de Laura Vergé 
-
-[Mon porfolio animé](https://linktr.ee/aymericcbs)
-
-Ce portfolio reprends chaque contenu réalisé dans le cadre de ce projet. J'ai eu la chance d'être le référent éditorial du pôle communication. C'est une expérience unique que j'ai pu avoir. De cette manière, j'ai developpé de nombreuses compétences dans la communication. 
-
-Le portfolio est donc l'histoire de mon avancé dans ce projet terminé et soumis à un appel à projet pour financement. 
