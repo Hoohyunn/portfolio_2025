@@ -9,5 +9,5 @@ theme = 'ananke'
 [[menu.main]]
 identifier = "about"
 name = "À propos de moi"
-url = "/a-propos"
+url = "/a-propos-de-moi/"
 weight = 4
