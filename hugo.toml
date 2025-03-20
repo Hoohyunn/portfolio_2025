@@ -3,3 +3,11 @@ languageCode = 'en-us'
 title = 'Aymeric Combes'
 
 theme = 'ananke'
+
+[menu] 
+
+[[menu.main]]
+identifier = 
+name = 
+url = 
+weight = 
