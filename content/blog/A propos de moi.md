@@ -4,4 +4,4 @@ draft = false
 title = 'A propros de qui je suis'
 +++
 
-(/portfolio_2025/images/photo CV.jpg)
+![Tout simplement moi](/images/photo CV.jpg)
