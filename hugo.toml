@@ -8,6 +8,6 @@ theme = 'ananke'
 
 [[menu.main]]
 identifier = 
-name = 
+name = A propos de moi
 url = 
-weight = 
+weight = 4
