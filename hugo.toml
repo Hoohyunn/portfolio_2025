@@ -4,10 +4,3 @@ title = 'Aymeric Combes'
 
 theme = 'ananke'
 
-[menu] 
-
-[[menu.main]]
-identifier = "about"
-name = "À propos de moi"
-url = "/a-propos-de-moi/"
-weight = 4
