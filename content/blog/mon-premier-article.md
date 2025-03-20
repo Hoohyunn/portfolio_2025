@@ -24,7 +24,7 @@ Lors de ma licence en édition, j’ai eu l’opportunité de participer à un p
 
 L’objectif principal de cette réédition était de rendre le livre plus accessible à un public élargi, notamment aux personnes rencontrant des difficultés de lecture ainsi qu’aux apprenants en langue française. Il s’agissait d’un véritable défi éditorial, demandant une réflexion approfondie sur l’adaptation du contenu, la simplification du texte, et la mise en place d’une maquette optimisée pour une lecture plus fluide.
 
-![Battantes ! sous le levé du soleil](/images/Battantes.jpg)
+![Battantes ! sous le levé du soleil](/portfolio_2025/images/Battantes.jpg)
 
 *Un projet collaboratif sur six mois*
 
